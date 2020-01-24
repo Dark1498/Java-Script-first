@@ -1,0 +1,20 @@
+{
+  "name": "javascript-project",
+  "version": "1.0.0",
+  "description": "MyFirstProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dark Knight",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.9.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.8.3",
+    
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0"
+  }
+}
